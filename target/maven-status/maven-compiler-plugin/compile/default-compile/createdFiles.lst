@@ -1,0 +1,9 @@
+com\slavarub\services\usermanagement\Config.class
+com\slavarub\services\usermanagement\db\UserDM.class
+com\slavarub\services\usermanagement\services\UserService.class
+com\slavarub\services\usermanagement\db\mappers\MapUserDMToUser.class
+com\slavarub\services\usermanagement\db\repositories\UserRepository.class
+com\slavarub\services\usermanagement\datatypes\User.class
+com\slavarub\services\usermanagement\db\mappers\MapUserToUserDM.class
+com\slavarub\services\usermanagement\UserManagementApplication.class
+com\slavarub\services\usermanagement\controller\UserController.class
